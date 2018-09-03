@@ -1,0 +1,11 @@
+/.ipynb_checkpoints
+/publications
+
+/data/*
+!/data/vehicle-data-sample.csv
+!/data/optional-datasets
+!/data/trimetridership.pdf
+!/data/monthly-performance.xlsx
+
+/notebooks/*
+!/notebooks/TriMet Vehicle Data Analysis.ipynb
